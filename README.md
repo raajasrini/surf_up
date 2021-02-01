@@ -30,9 +30,11 @@ The project is to perform climate analysis to find out the temperature trends be
   * Standard deviation is 3.25 in June and 3.75 in December, making a 0.5 difference between both seasons.
  
   * The table below povides the temperature values helps to determine the profitability of opening a surf and ice cream shop all year round.
-    Statistics	June (F)	December (F)
-    Minimum Value	64	0
-    Maximum Value	4.43	6.42
-    Average Value	0.13	0.21
+
+    Statistics | June (F) | December (F)
+    | :--- | ---: | :---:
+    Minimum Value  | 64.0 | 56.0
+    Maximum Value  | 85.0 | 83.0
+    Average Value  | 74.9 | 71.0
 
 * In addition, current data provide attributes such as precipitation and weather station and temperatures in statios performing weather data for June and December that helps results to decide on how would improve to build the shop and ideas to develop areas would make this location visitor attractive to elevate a successful business.

@@ -19,7 +19,7 @@ The project is to perform climate analysis to find out the temperature trends be
  * By using Python, Pandas functions and methods, and SQLAlchemy, A working query is written to retrieve the June temperatures from the date column of the Measurement table in hawaii.sqlite. 
  * The temperatures are added to a list "results".
  * The list of temperatures is converted to a Pandas DataFrame.
- * [June Summary statistics](https://github.com/raajasrini/surfs_up/blob/main/Resources/December.png) are generated for the DataFrame.
+ * [December Summary statistics](https://github.com/raajasrini/surfs_up/blob/main/Resources/December.png) are generated for the DataFrame.
 
 ## Summary:
 * With the given data provided and based on the data analysis, we can state as a high-level summary of results that 
